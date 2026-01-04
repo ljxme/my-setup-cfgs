@@ -1,0 +1,21 @@
+{
+	"explorer.confirmDelete": false,
+	"editor.cursorBlinking": "phase",
+	"editor.cursorStyle": "line",
+	"editor.fontFamily": "'JetBrainsMono Nerd Font', 'LXGW Bright Code', Consolas",
+	"editor.fontVariations": false,
+	"editor.tabSize": 2,
+	"files.autoSave": "afterDelay",
+	"gitlens.ai.model": "vscode",
+	"gitlens.ai.vscode.model": "copilot:gpt-4.1",
+	"workbench.activityBar.location": "bottom",
+	"workbench.colorCustomizations": {},
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.productIconTheme": "Default",
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
+	"workbench.colorTheme": "Nord",
+	"security.workspace.trust.untrustedFiles": "open",
+	"settingsSync.ignoredSettings": [
+		"editor.cursorBlinking"
+	]
+}
